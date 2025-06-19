@@ -47,7 +47,7 @@ streamlit run main.py
 🔐 Environment Variables:
 Create a .env file (excluded from Git) like this:
 OPENROUTER_API_KEY=your_openrouter_key
-MONGO_URI=mongodb+srv://username:password@your-cluster.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://username:<password>@your-cluster.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 * The .env file is listed in .gitignore for safety.
 
 
