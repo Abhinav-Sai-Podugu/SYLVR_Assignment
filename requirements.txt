@@ -1,0 +1,9 @@
+streamlit>=1.33.0
+pymongo[srv]>=4.6.1
+openai>=1.0.0
+gTTS>=2.3.2
+python-dotenv>=1.0.1
+bson>=0.5.10
+soundfile>=0.12.1
+numpy>=1.24.0
+uuid>=1.30
