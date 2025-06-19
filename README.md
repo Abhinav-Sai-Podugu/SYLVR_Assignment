@@ -19,14 +19,23 @@ A natural language interface for exploring a MongoDB database using AI. Built as
 
 
 📁 Project Architecture:
+
 ├── app/
+
 │ ├── agent.py # OpenRouter prompt + response
+
 │ └── ui.py # Streamlit layout + TTS button
+
 │ └── db.py # MongoDB connection logic
+
 ├── main.py # Streamlit entrypoint
+
 ├── .env.template # Safe example config
+
 ├── .gitignore # Prevents secrets from leaking
+
 ├── requirements.txt
+
 └── README.md
 
 
