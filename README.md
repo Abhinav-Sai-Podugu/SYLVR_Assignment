@@ -49,8 +49,8 @@ A natural language interface for exploring a MongoDB database using AI. Built as
 
 
 🗂️ Dataset Used:
+
 This project uses MongoDB’s public `sample_analytics` dataset, which contains collections like `accounts`, `transactions`, and `customers` for financial analysis.
-You can download the dataset from here: 
 
 If you're using MongoDB Atlas:
 1. Create a new database named `sample_analytics`
